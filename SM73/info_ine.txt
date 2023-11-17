@@ -1,0 +1,11 @@
+Nombre: jhkh
+Apellidos: ghf
+Edad: fh
+Domicilio: fh
+Clave: gh
+Curp: fgfh
+Fecha: ggfh
+Seccion: fg
+Registro: hfdh
+Vigencia: fh
+Sexo: gfh
